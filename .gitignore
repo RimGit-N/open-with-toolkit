@@ -1,0 +1,8 @@
+# Local reports and registry exports
+OpenWith-Backups/
+*.reg
+
+# Windows / editor noise
+Thumbs.db
+Desktop.ini
+.vscode/
