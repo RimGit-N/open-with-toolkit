@@ -1,0 +1,88 @@
+OPEN WITH TOOLKIT — CUSTOM SOURCE-AVAILABLE LICENSE
+Version 1.0
+Effective date: 2026-10-23
+
+Copyright (c) 2026 RimGit-N
+
+All rights reserved except for the limited permissions expressly granted below.
+
+1. DEFINITIONS
+
+“Software” means the source code, scripts, documentation, and other materials in the
+Open With Toolkit repository that are owned by the copyright holder.
+
+“Substantial Modification” means a meaningful functional, architectural, or documented
+improvement beyond cosmetic edits, renaming, formatting, or changing metadata. Examples
+may include a new feature, a materially improved workflow, a meaningful bug fix, or a
+documented compatibility improvement.
+
+2. PERMITTED USE
+
+You may view and study the Software. You may run it for personal, non-commercial purposes.
+You may modify it for personal development and testing.
+
+You may create a fork on GitHub for study, experimentation, development, or contribution.
+A GitHub-hosted fork must retain this license and the original copyright and attribution
+notices. The existence of a platform-generated fork does not grant additional rights to
+publish, package, sell, or otherwise distribute the Software.
+
+3. CONDITIONS FOR SHARING A MODIFIED FORK
+
+If you want to publish or distribute a modified version outside the ordinary GitHub fork
+mechanism, you must first:
+
+(a) make Substantial Modifications;
+(b) clearly document the changes in a changelog or equivalent project documentation;
+(c) retain the original copyright and attribution notices and identify the upstream project;
+(d) use a distinct project name, repository description, and branding that do not imply
+    that your version is the official Open With Toolkit project; and
+(e) include this license and identify your own modifications.
+
+These conditions do not authorize redistribution of an unchanged or trivially changed copy.
+For any other redistribution, sublicensing, repackaging, or publication of the Software,
+you must obtain prior written permission from the copyright holder.
+
+4. RESTRICTIONS
+
+Without prior written permission from the copyright holder, you may not:
+
+(a) sell, license for a fee, or commercially exploit the Software or a copy of it;
+(b) redistribute an unchanged or trivially modified copy, including under a different name;
+(c) claim authorship or ownership of the original Software;
+(d) remove or obscure copyright, attribution, or license notices; or
+(e) use the original project name, branding, or presentation in a way that suggests your
+    fork is the official project or is endorsed by the copyright holder.
+
+5. CONTRIBUTIONS
+
+Submitting a contribution does not transfer ownership of the contributor’s work to the
+copyright holder. By submitting a contribution, you confirm that you have the right to
+submit it and grant the project maintainer permission to review, use, modify, and
+distribute that contribution as part of this project. Any broader contribution agreement
+must be made separately in writing.
+
+6. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE
+COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+FROM THE SOFTWARE OR ITS USE.
+
+7. RIGHTS NOT GRANTED
+
+All rights not expressly granted by this license are reserved by the copyright holder.
+Nothing in this license grants trademark rights. Mandatory rights under applicable law
+remain unaffected.
+
+8. PERMISSION AND CONTACT
+
+For written permission, commercial use, redistribution outside the permissions above, or
+questions about this license, contact the repository owner through the GitHub profile
+associated with RimGit-N.
+
+9. LICENSE STATUS
+
+This is a custom, source-available license. It is not an OSI-approved open-source license.
+It may not satisfy every legal requirement in every jurisdiction. Consider obtaining legal
+review before relying on it for commercial enforcement.

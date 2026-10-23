@@ -81,4 +81,8 @@ Bug reports and focused improvements are welcome. Include your Windows version, 
 
 ## License
 
-No license has been included yet. Until a license is added, you should not assume that the code is available for reuse, redistribution, or modification under an open-source license.
+This project is distributed under the **Open With Toolkit Custom Source-Available License v1.0**. It permits personal use, study, modification, and GitHub-hosted forks subject to the license terms. Redistribution, commercial use, and publishing modified forks are restricted. See [`LICENSE`](LICENSE) for the full terms.
+
+This is a custom source-available license, not an OSI-approved open-source license.
+
+For the Indonesian version, see [README.id.md](README.id.md).

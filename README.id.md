@@ -81,4 +81,8 @@ Laporan bug dan perbaikan yang terarah dipersilakan. Sertakan versi Windows, men
 
 ## Lisensi
 
-Lisensi belum disertakan. Sampai lisensi ditambahkan, jangan menganggap kode ini tersedia untuk digunakan ulang, didistribusikan, atau dimodifikasi berdasarkan lisensi open-source.
+Proyek ini menggunakan **Open With Toolkit Custom Source-Available License v1.0**. Lisensi mengizinkan penggunaan pribadi, pembelajaran, modifikasi, dan fork di GitHub sesuai ketentuannya. Distribusi ulang, penggunaan komersial, dan publikasi fork yang dimodifikasi dibatasi. Baca [`LICENSE`](LICENSE) untuk ketentuan lengkap.
+
+Ini adalah lisensi khusus source-available, bukan lisensi open-source yang disetujui OSI.
+
+For the English version, see [README.md](README.md).
